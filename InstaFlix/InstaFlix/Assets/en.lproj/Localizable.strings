@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  InstaFlix
+
+  Created by Jorge Luis Menco Jaraba on 26/09/24.
+  
+*/
+
+//ListMoviesScreen
+"ListMoviesTitle" = "Show Movies Catalog";
+"ListMovies.AddFavoriteButtonTitle" = "Add to favorite";
+"ListMovies.EmptyState.emptyTitle" = "we are getting the movies..";
+"ListMovies.EmptyState.emptyResultTitle" = "Any movies was found, try later.";
+"ListMovies.EmptyState.NetworkErrorTitle" = "Error of conection try later, verify your connection";
+"ListMovies.addMovieSuccessTitle" = "Success!!";
+"ListMovies.addMovieSuccessMessage" = "The movie was added to your favorite catalog";
+"ListMovies.addMovieAlertButtonTitle" = "OK.";
+
+
+//DetailMovieScreen
+"MovieDetail.screenTitle" = "Movie Detail";
+"MovieDetail.releaseDate" = "Relase date in ";
+"MovieDetail.AllowForAllPiblic" = "Allow for all public";
+"MovieDetail.NotAllowForAllPiblic" = "Only for +18 public";

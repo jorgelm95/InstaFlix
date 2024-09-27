@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:InstaFlixDomain">
+   </FileRef>
+   <FileRef
+      location = "group:InstaFlixData">
+   </FileRef>
+   <FileRef
+      location = "group:InstaFlixNetworking">
+   </FileRef>
+   <FileRef
+      location = "group:InstaFlix/InstaFlix.xcodeproj">
+   </FileRef>
+</Workspace>
