@@ -41,3 +41,18 @@ Use un especie de patron Adapter para hacer el mappeo de los modelos de API  a m
 
 # Testing
 Realice pruebas unitarias a la capa de data y a la capa de presentancion a los presenters, tambien genera un file de pruebas de integracion entre el presenter y el interactor y la vista.
+
+
+Nota:
+
+Me indicaron que la prueba tenìa un crash y revise y efectivamente se estaba generando un crash debido a un manejo incorrecto del llamado al servicio de la respuesta mockeada que me habían proporcionado ya que esta ya no está disponible la cual es esta.
+https://run.mocky.io/v3/237fc551-d059-4aee-993a-064684842627
+Yo tome la iniciativa de mockear una respuesta y agregarla al proyecto, con base a la que me habían proporcionado anteriormente para validar de que funcione la prueba.
+Esta es la url de la respuesta mockeada que yo cree. https://run.mocky.io/v3/5b0e6097-33c3-4ef4-b4cc-26bc8d1484f1
+
+Adjunto link de un video del funcionamiento de la prueba.
+
+https://drive.google.com/file/d/1Cv3lDldbuBM_Ghz7-H9b8WPAO2YU_ZkP/view?usp=sharing
+
+Muchas gracias. 
+
