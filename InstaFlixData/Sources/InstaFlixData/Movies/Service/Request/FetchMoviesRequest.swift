@@ -13,7 +13,7 @@ struct FetchMoviesRequest: RequestType {
     typealias Output = ResponseResult<[APIMovie]>
     
     var baseUrl: URL { URL(string: "https://run.mocky.io/")! }
-    var path: String { "v3/5b0e6097-33c3-4ef4-b4cc-26bc8d1484f1" }
+    var path: String { "v3/fff7d39b-2e8d-46c8-aae3-9f14fd3e929b" }
     var queryParams: HTTPQueryParams {[:]}
     var method: HTTPMethod { .get }
     
